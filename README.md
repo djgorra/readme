@@ -28,7 +28,7 @@ Core DNA
 📈 Open Source Contributions
 
 Featured Projects
-
+ 
     RaidCraft:
     A React Native app for organizing World of Warcraft raids, featuring a robust Ruby on Rails backend for real-time data updates.
 
